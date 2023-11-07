@@ -1,0 +1,55 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/60c2b973cc570e09572876a1.60c2b9751889ebdd1b327e65.SjEj1Dd.hcp.png");
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.screen-shared {
+  height: 926px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 428px;
+}
+
+.separator_img {
+  height: 19px;
+  left: 161px;
+  object-fit: cover;
+  position: absolute;
+  top: 265px;
+  width: 106px;
+}
+
+.episodes_link {
+  cursor: pointer;
+  height: 31px;
+  left: 746px;
+  object-fit: cover;
+  position: fixed;
+  top: 982px;
+  width: 56px;
+  z-index: 4;
+}

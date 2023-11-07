@@ -1,0 +1,137 @@
+/* screen - kindle-vella-episodes */
+
+.kindle-vella-episodes {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1180px;
+  overflow: hidden;
+  width: 1548px;
+}
+
+.kindle-vella-episodes .front_mask_img {
+  height: 1196px;
+  left: 0;
+  object-fit: cover;
+  position: fixed;
+  top: -8px;
+  width: 1548px;
+  z-index: 1;
+}
+
+.kindle-vella-episodes .background_p2_img {
+  border-radius: 55px;
+  height: 926px;
+  left: 560px;
+  object-fit: cover;
+  position: fixed;
+  top: 127px;
+  width: 428px;
+  z-index: 2;
+}
+
+.kindle-vella-episodes .book_list {
+  height: 45px;
+  margin-left: 156.0px;
+  margin-top: 319px;
+  object-fit: cover;
+  width: 218px;
+  z-index: 4;
+}
+
+.kindle-vella-episodes .gbk_list {
+  height: 21px;
+  margin-left: 74.0px;
+  margin-top: 8px;
+  object-fit: cover;
+  width: 136px;
+  z-index: 5;
+}
+
+.kindle-vella-episodes .ep_1_-button {
+  cursor: pointer;
+  height: 53px;
+  left: 578px;
+  object-fit: cover;
+  position: fixed;
+  top: 486px;
+  width: 392px;
+  z-index: 6;
+}
+
+.kindle-vella-episodes .ep_2_-button {
+  cursor: pointer;
+  height: 53px;
+  left: 578px;
+  object-fit: cover;
+  position: fixed;
+  top: 548px;
+  width: 392px;
+  z-index: 7;
+}
+
+.kindle-vella-episodes .ep_3_-button {
+  cursor: pointer;
+  height: 53px;
+  left: 578px;
+  object-fit: cover;
+  position: fixed;
+  top: 610px;
+  width: 392px;
+  z-index: 8;
+}
+
+.kindle-vella-episodes .ep_4_-button {
+  cursor: pointer;
+  height: 53px;
+  left: 578px;
+  object-fit: cover;
+  position: fixed;
+  top: 672px;
+  width: 392px;
+  z-index: 9;
+}
+
+.kindle-vella-episodes .ep_5_button {
+  cursor: pointer;
+  height: 53px;
+  left: 578px;
+  object-fit: cover;
+  position: fixed;
+  top: 734px;
+  width: 392px;
+  z-index: 10;
+}
+
+.kindle-vella-episodes .read_ep1_button {
+  cursor: pointer;
+  height: 49px;
+  left: 581px;
+  object-fit: cover;
+  position: fixed;
+  top: 889px;
+  width: 324px;
+  z-index: 3;
+}
+
+.kindle-vella-episodes .home_button {
+  cursor: pointer;
+  height: 59px;
+  left: 572px;
+  object-fit: cover;
+  position: fixed;
+  top: 966px;
+  width: 68px;
+  z-index: 11;
+}
+
+.kindle-vella-episodes .gbk_logo_img {
+  height: 41px;
+  left: 1350px;
+  object-fit: cover;
+  position: fixed;
+  top: 1089px;
+  width: 116px;
+  z-index: 12;
+}

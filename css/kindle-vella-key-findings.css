@@ -1,0 +1,96 @@
+/* screen - kindle-vella-key-findings */
+
+.kindle-vella-key-findings {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 3113px;
+  width: 1548px;
+}
+
+.kindle-vella-key-findings .front_mask_img {
+  height: 1196px;
+  left: 0;
+  object-fit: cover;
+  position: fixed;
+  top: -8px;
+  width: 1548px;
+  z-index: 5;
+}
+
+.kindle-vella-key-findings .overlap-group {
+  height: 2639px;
+  margin-left: 560px;
+  margin-top: 127px;
+  position: relative;
+  width: 428px;
+  z-index: 1;
+}
+
+.kindle-vella-key-findings .text_key_list {
+  height: 2334px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 305px;
+  width: 388px;
+}
+
+.kindle-vella-key-findings .screen {
+  height: 926px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 428px;
+}
+
+.kindle-vella-key-findings .episode1_list {
+  height: 22px;
+  left: 174px;
+  object-fit: cover;
+  position: absolute;
+  top: 184px;
+  width: 80px;
+}
+
+.kindle-vella-key-findings .title_key_list {
+  height: 31px;
+  left: 136px;
+  object-fit: cover;
+  position: absolute;
+  top: 212px;
+  width: 156px;
+}
+
+.kindle-vella-key-findings .home_button {
+  cursor: pointer;
+  height: 59px;
+  left: 572px;
+  object-fit: cover;
+  position: fixed;
+  top: 966px;
+  width: 68px;
+  z-index: 3;
+}
+
+.kindle-vella-key-findings .read_ep2_button {
+  cursor: pointer;
+  height: 49px;
+  left: 581px;
+  object-fit: cover;
+  position: fixed;
+  top: 889px;
+  width: 324px;
+  z-index: 2;
+}
+
+.kindle-vella-key-findings .gbk_logo_img {
+  height: 41px;
+  left: 1350px;
+  object-fit: cover;
+  position: fixed;
+  top: 1089px;
+  width: 116px;
+  z-index: 6;
+}
